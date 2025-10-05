@@ -1,1 +1,1 @@
-web: python3 job.py
+web: bash start.sh
